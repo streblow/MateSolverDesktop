@@ -27,7 +27,7 @@ import javax.swing.JPanel;
  * @author streblow
  */
 public class AboutDialog extends JDialog {
-    public final String versionString = "Version 2.5 (Build 2018-12-11)";
+    public final String versionString = "Version 2.6 (Build 2018-12-13)";
     
     public AboutDialog(JFrame parent) {
         super(parent, "About MateSolver", true);
