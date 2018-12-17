@@ -9,7 +9,7 @@ and to analyse chess positions or chess games. There is a built-in engine to eva
 for a chess position. It is not intended to be your opponent. There are better apps and engines.<br>
 Within the application you can copy pictures of the board or the move list to clipboard and export
 a game to PDF to document chess matches or chess problems with your computer.<br>
-You can build it with NetBeans or find a JAR-file in the dist folder.<br>
+You can build it with NetBeans or find a JAR-file in the release section of this repository.<br>
 <br>
 <br>
 <h1>MateSolverDesktop</h1>
@@ -24,6 +24,7 @@ gibt bessere Anwendungen und Engines.<br>
 Innerhalb der Anwendung können Sie Bilder des aktuellen Bretts oder die Zugliste in die Zwischenablage
 kopieren und den aktuellen Stand in eine PDF-Datei exportieren, um Partien oder Probleme mit
 Ihrem Computer zu dokumentieren.<br>
-Sie können die Anwendung mit NetBeans übersetzen, oder aber eine JAR-Datei im dist-Ordner finden.<br>
+Sie können die Anwendung mit NetBeans übersetzen, oder aber eine JAR-Datei im Releasebereich dieses
+Repositorys finden.<br>
 
 
